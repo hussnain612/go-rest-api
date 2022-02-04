@@ -12,6 +12,6 @@ var Events = AllEvents{
 	{
 		ID:          "1",
 		Title:       "Introduction to Golang",
-		Description: "Learn Golang",
+		Description: "Learning Golang",
 	},
 }
